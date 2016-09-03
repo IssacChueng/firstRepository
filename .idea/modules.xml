@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseAdapter.iml" filepath="$PROJECT_DIR$/BaseAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctasktest/asynctasktest.iml" filepath="$PROJECT_DIR$/asynctasktest/asynctasktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseadapter2/baseadapter2.iml" filepath="$PROJECT_DIR$/baseadapter2/baseadapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classestest/classestest.iml" filepath="$PROJECT_DIR$/classestest/classestest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myanimation/myanimation.iml" filepath="$PROJECT_DIR$/myanimation/myanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybroadcast/mybroadcast.iml" filepath="$PROJECT_DIR$/mybroadcast/mybroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycontentprovider/mycontentprovider.iml" filepath="$PROJECT_DIR$/mycontentprovider/mycontentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfile/myfile.iml" filepath="$PROJECT_DIR$/myfile/myfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygestruedetector/mygestruedetector.iml" filepath="$PROJECT_DIR$/mygestruedetector/mygestruedetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhandler/myhandler.iml" filepath="$PROJECT_DIR$/myhandler/myhandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhttpclient/myhttpclient.iml" filepath="$PROJECT_DIR$/myhttpclient/myhttpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhttpurlconnection/myhttpurlconnection.iml" filepath="$PROJECT_DIR$/myhttpurlconnection/myhttpurlconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myservice/myservice.iml" filepath="$PROJECT_DIR$/myservice/myservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysharedprefrences/mysharedprefrences.iml" filepath="$PROJECT_DIR$/mysharedprefrences/mysharedprefrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysqlite/mysqlite.iml" filepath="$PROJECT_DIR$/mysqlite/mysqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mystepcounter/mystepcounter.iml" filepath="$PROJECT_DIR$/mystepcounter/mystepcounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysystemservice/mysystemservice.iml" filepath="$PROJECT_DIR$/mysystemservice/mysystemservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mythread/mythread.iml" filepath="$PROJECT_DIR$/mythread/mythread.iml" />
+    </modules>
+  </component>
+</project>

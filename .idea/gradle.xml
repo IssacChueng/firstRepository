@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctasktest" />
+            <option value="$PROJECT_DIR$/baseadapter2" />
+            <option value="$PROJECT_DIR$/classestest" />
+            <option value="$PROJECT_DIR$/myanimation" />
+            <option value="$PROJECT_DIR$/mybroadcast" />
+            <option value="$PROJECT_DIR$/mycontentprovider" />
+            <option value="$PROJECT_DIR$/myfile" />
+            <option value="$PROJECT_DIR$/mygestruedetector" />
+            <option value="$PROJECT_DIR$/myhandler" />
+            <option value="$PROJECT_DIR$/myhttpclient" />
+            <option value="$PROJECT_DIR$/myhttpurlconnection" />
+            <option value="$PROJECT_DIR$/myservice" />
+            <option value="$PROJECT_DIR$/mysharedprefrences" />
+            <option value="$PROJECT_DIR$/mysqlite" />
+            <option value="$PROJECT_DIR$/mystepcounter" />
+            <option value="$PROJECT_DIR$/mysystemservice" />
+            <option value="$PROJECT_DIR$/mythread" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctasktest" />
+            <option value="$PROJECT_DIR$/baseadapter2" />
+            <option value="$PROJECT_DIR$/classestest" />
+            <option value="$PROJECT_DIR$/myanimation" />
+            <option value="$PROJECT_DIR$/mybroadcast" />
+            <option value="$PROJECT_DIR$/mycontentprovider" />
+            <option value="$PROJECT_DIR$/myfile" />
+            <option value="$PROJECT_DIR$/mygestruedetector" />
+            <option value="$PROJECT_DIR$/myhandler" />
+            <option value="$PROJECT_DIR$/myhttpclient" />
+            <option value="$PROJECT_DIR$/myhttpurlconnection" />
+            <option value="$PROJECT_DIR$/myservice" />
+            <option value="$PROJECT_DIR$/mysharedprefrences" />
+            <option value="$PROJECT_DIR$/mysqlite" />
+            <option value="$PROJECT_DIR$/mystepcounter" />
+            <option value="$PROJECT_DIR$/mysystemservice" />
+            <option value="$PROJECT_DIR$/mythread" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

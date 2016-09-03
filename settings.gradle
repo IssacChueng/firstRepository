@@ -1,0 +1,1 @@
+include ':app', ':baseadapter2', ':asynctasktest', ':classestest', ':mysqlite', ':mysharedprefrences', ':myfile', ':mycontentprovider', ':mybroadcast', ':myservice', ':mysystemservice', ':mygestruedetector', ':mythread', ':myhandler', ':myhttpurlconnection', ':myhttpclient', ':mystepcounter', ':myanimation'

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAnimation</string>
+    <string name="translate">translate</string>
+    <string name="alpha">alpha</string>
+    <string name="scale">scale</string>
+    <string name="rotate">rotate</string>
+    <string name="code_anim">code_anim</string>
+    <string name="code_value">code_value</string>
+    <string name="cancel">cancel</string>
+</resources>
